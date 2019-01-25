@@ -1,0 +1,7 @@
+{
+    
+    "env":{
+        "MONGO_ATLAS_PASS":"tu01sh04ar1998",
+        "JWT_KEY":"secret"
+    }
+}
